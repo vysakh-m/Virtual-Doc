@@ -1,0 +1,3 @@
+node_modules/
+config/keys_dev.js
+client/node_modules/
