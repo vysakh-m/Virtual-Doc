@@ -1,0 +1,3 @@
+Normal->1, covid->0
+img size = 150x150
+i have resized them already
