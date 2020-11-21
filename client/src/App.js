@@ -12,6 +12,8 @@ import PrivateRoute from "./components/common/PrivateRoute";
 import Landing from "./components/landing/Landing";
 import Register from "./components/register/Register";
 import Login from "./components/login/Login";
+import Dashboard from "./components/dashboard/Dashboard";
+import Navbar from "./components/layout/Navbar";
 
 // Check for token
 if (localStorage.jwtToken) {
@@ -33,9 +35,14 @@ export default class App extends Component {
       <Provider store={store}>
         <Router>
           <div>
+            <Navbar />
             <Route exact path="/" component={Landing} />
             <Route exact path="/register" component={Register} />
             <Route exact path="/login" component={Login} />
+            <Route exact path="/dashboard" component={Dashboard} />
+            {/* <Switch>
+              <PrivateRoute exact path="/dashboard" component={Home} />
+            </Switch> */}
           </div>
         </Router>
       </Provider>

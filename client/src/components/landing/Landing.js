@@ -40,11 +40,7 @@ export default class Landing extends Component {
                         Welcome to <span>Virtual Doc</span>
                       </h2>
                       <p className="animate__animated animate__fadeInUp">
-                        Ut velit est quam dolor ad a aliquid qui aliquid. Sequi
-                        ea ut et est quaerat sequi nihil ut aliquam. Occaecati
-                        alias dolorem mollitia ut. Similique ea voluptatem. Esse
-                        doloremque accusamus repellendus deleniti vel. Minus et
-                        tempore modi architecto.
+                        Services for a better tomorrow
                       </p>
                       <Link
                         className="btn-get-started animate__animated animate__fadeInUp scrollto"
@@ -74,72 +70,60 @@ export default class Landing extends Component {
             <div className="container">
               <div className="section-title">
                 <h2>Our Services</h2>
-                <p>
-                  Magnam dolores commodi suscipit. Necessitatibus eius
-                  consequatur ex aliquid fuga eum quidem. Sit sint consectetur
-                  velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit
-                  suscipit alias ea. Quia fugiat sit in iste officiis commodi
-                  quidem hic quas.
-                </p>
               </div>
 
               <div className="row">
                 <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div className="icon-box">
-                    <div className="icon">
+                    {/* <div className="icon">
                       <i className="bx bxl-dribbble"></i>
-                    </div>
+                    </div> */}
                     <h4 className="title">
-                      <a href="">Lorem Ipsum</a>
+                      <a href="">Chronic Kidney Disease</a>
                     </h4>
                     <p className="description">
-                      Voluptatum deleniti atque corrupti quos dolores et quas
-                      molestias excepturi
+                      We are using different features like, age,bp,specific
+                      gravity,sugar,blood glucose,anemia etc. to predict that a
+                      person has a ckd or not.
                     </p>
                   </div>
                 </div>
 
                 <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div className="icon-box">
-                    <div className="icon">
-                      <i className="bx bx-file"></i>
-                    </div>
                     <h4 className="title">
-                      <a href="">Sed ut perspiciatis</a>
+                      <a href="">Pneumonia Detection</a>
                     </h4>
                     <p className="description">
-                      Duis aute irure dolor in reprehenderit in voluptate velit
-                      esse cillum dolore
+                      Identify whether the patient is having Viral-Pneumonia or
+                      Bacterial-Pneumonia or whether they are normal based on
+                      X-Ray data.
                     </p>
                   </div>
                 </div>
 
                 <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div className="icon-box">
-                    <div className="icon">
-                      <i className="bx bx-tachometer"></i>
-                    </div>
                     <h4 className="title">
-                      <a href="">Magni Dolores</a>
+                      <a href="">Malaria Detection</a>
                     </h4>
                     <p className="description">
-                      Excepteur sint occaecat cupidatat non proident, sunt in
-                      culpa qui officia
+                      Identify whether the patient is having Malaria or not
+                      based on affected cell images.
                     </p>
                   </div>
                 </div>
 
                 <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div className="icon-box">
-                    <div className="icon">
-                      <i className="bx bx-world"></i>
-                    </div>
                     <h4 className="title">
-                      <a href="">Nemo Enim</a>
+                      <a href="">Diabetes Diagnosis</a>
                     </h4>
                     <p className="description">
-                      At vero eos et accusamus et iusto odio dignissimos ducimus
-                      qui blanditiis
+                      Identify whether the patient has diabetes or not based on
+                      parameters like, Diastolic blood pressure, Triceps skin
+                      fold thickness, Body mass index, Diabetes pedigree
+                      function age etc.
                     </p>
                   </div>
                 </div>
