@@ -8,3 +8,5 @@ M = malignant, B = benign)
 1=B
 
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+diagnosis is the target

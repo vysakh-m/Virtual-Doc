@@ -7,3 +7,5 @@ Age	Gender	Total_Bilirubin		Direct_Bilirubin		Alkaline_Phosphotase	Alamine_Amino
 
 1==liver diseas
 0=no liver diseas
+
+dataset is the target
