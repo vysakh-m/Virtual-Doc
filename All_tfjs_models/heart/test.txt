@@ -1,0 +1,6 @@
+cp	slope		restecg	thalach	target
+3	0		0		150		1
+
+
+0 = no disease and 1 = disease.
+https://www.kaggle.com/johnsmith88/heart-disease-dataset
