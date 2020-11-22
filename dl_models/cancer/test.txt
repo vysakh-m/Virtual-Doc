@@ -1,0 +1,12 @@
+"diagnosis"	"radius_mean"	"texture_mean"	"perimeter_mean_area_mean"	"smoothness_mean"	"compactness_mean"	"concavity_mean"	"concave points_mean"	"symmetry_mean"	"radius_se"	"perimeter_se"	"area_se"	"compactness_se"	"concavity_se"	"concave points_se"	"radius_worst"	"texture_worst"	"perimeter_worst	" "area_worst"	"smoothness_worst"	"compactness_worst"	"concavity_worst"	"concave points_worst"	"symmetry_worst"	"fractal_dimension_worst"
+
+1	17.99		10.38		122.80	1001.0	0.11840	0.27760	0.3001	0.14710	0.2419	1.0950	8.589		153.40	0.04904	0.05373	0.01587	25.38		17.33		184.60	2019.0	0.1622	0.6656	0.7119	0.2654	0.4601	0.11890
+
+
+M = malignant, B = benign)
+0=M
+1=B
+
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+diagnosis is the target

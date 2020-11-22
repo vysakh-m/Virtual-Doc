@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import { Link } from "react-router-dom";
 export default class Oneitem extends Component {
   render() {
     return (
@@ -12,12 +12,12 @@ export default class Oneitem extends Component {
                 <p class="text-muted">{this.props.desc}</p>
               </div>
               <hr />
-              <button
-                type="button"
+              <Link
+                to={this.props.link}
                 class="btn btn-dark mt-3 btn-rounded waves-effect w-md waves-light"
               >
                 CHECK NOW
-              </button>
+              </Link>
             </div>
           </div>
         </div>

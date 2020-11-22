@@ -1,0 +1,3 @@
+img size = 150x150
+0=normal
+1=inflected

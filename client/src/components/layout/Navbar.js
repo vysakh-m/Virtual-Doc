@@ -64,7 +64,7 @@ class Navbar extends Component {
             active: this.state.active === "dashboard",
           })}
         >
-          <a href="index.html">Dashboard</a>
+          <Link to="/dashboard">Dashboard</Link>
         </li>
         <li
           onClick={this.onProfileClick}
@@ -80,7 +80,7 @@ class Navbar extends Component {
             active: this.state.active === "aboutus",
           })}
         >
-          <a href="#services">About Us</a>
+          <Link to="about-us">About Us</Link>
         </li>
         <li>
           <a href="#portfolio" onClick={this.onLogoutClick.bind(this)}>
@@ -122,7 +122,7 @@ class Navbar extends Component {
             active: this.state.active === "aboutus",
           })}
         >
-          <a href="#services">About Us</a>
+          <Link to="about-us">About Us</Link>
         </li>
       </ul>
     );

@@ -1,0 +1,11 @@
+blood_glucose_random	sugar	red_blood_cell_count	blood_urea	serum_creatinine	diabetes_mellitus	pus_cell	anemia	albumin	blood_pressure	red_blood_cells	age	coronary_artery_disease	specific_gravity	sodium	appetite	white_blood_cell_count	packed_cell_volume	pedal_edema	potassium	pus_cell_clumps	hemoglobin	hypertension	bacteria	classification
+
+
+
+121.0		0.0	5.20	36.0	1.2	1.0	1.0	0.0	1.0	80.0	0.2	48.0	0.0	1.020		131.6		1.0	7800.0	44.0		0.0	3.96	0.0	15.4	1.0	0.0	0
+
+
+classification is the target
+
+0=ckd
+1=not ckd
