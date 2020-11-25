@@ -9,6 +9,7 @@
 
 <p align="center">
 
+ <img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"><img src="https://forthebadge.com/images/badges/made-with-javascript.svg">
 <img alt="npm" src="https://img.shields.io/npm/v/node?color=%23339933&logo=Node.js&style=for-the-badge">
 </p>
 <br/>
