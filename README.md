@@ -5,12 +5,12 @@
 <br/>
 <a href="LICENSE"><img alt="GitHub License MIT" src="https://img.shields.io/github/license/Ak-Shaw/text-to-handwriting-script?style=for-the-badge&labelColor=black&logo=github"></a>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 
 <p align="center">
 
- <img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"><img src="https://forthebadge.com/images/badges/made-with-javascript.svg">
-<img alt="npm" src="https://img.shields.io/npm/v/node?color=%23339933&logo=Node.js&style=for-the-badge">
+ <img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"><img src="https://forthebadge.com/images/badges/made-with-javascript.svg"><img src="https://forthebadge.com/images/badges/open-source.svg">
+
 </p>
 <br/>
 <i>Me and soumyadip created this project at the time of  <a href="https://octahacks.tech/">OCTAHACKS</a> conducted by <a href="https://twitter.com/dscciet">DSC_CIET</a>. This project is related to Health care.
