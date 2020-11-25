@@ -12,7 +12,7 @@
 <img alt="npm" src="https://img.shields.io/npm/v/node?color=%23339933&logo=Node.js&style=for-the-badge">
 </p>
 <br/>
-<i>Me and soumyadip created this project at the time of  <a href="https://octahacks.tech/">OCTAHACKS</a> conducted by DSC_CIET. This project is related to Health care.
+<i>Me and soumyadip created this project at the time of  <a href="https://octahacks.tech/">OCTAHACKS</a> conducted by <a href="https://twitter.com/dscciet">DSC_CIET</a>. This project is related to Health care.
 Main aim of this project is to provide Quick and accessible medical assistance like malaria detection,pneumonia detection, diabestes detection within your browser using SOTA Deep Learning models using which people can varify their state in one click.
 We putted together eight different diseases like Diabetes,breast-cancer,malaria including COVID to help people get medical services promptly.</i>.
 <br/><br/>
