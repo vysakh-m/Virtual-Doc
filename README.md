@@ -71,7 +71,8 @@ we concentrated we full fill the core idea of our project. If you know any other
 4. Video appointment with doctor.
 5. Review system.
 6. Model improvements.
-** NOTE :** If you can implement any on the above mentioned features then feel free to make a PR😊.  
+
+**NOTE :** If you can implement any on the above mentioned features then feel free to make a PR😊.  
 # File structure 📂:
 1. converted tfjs models are in the [All_tfjs_models](https://github.com/vysakh-m/Virtual-Doc/tree/main/All_tfjs_models) folder.
 2. Data for heart,diabetes,kidney,cancer is provided in the [data](https://github.com/vysakh-m/Virtual-Doc/tree/main/data) folder.
