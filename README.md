@@ -3,9 +3,7 @@
 <br/>
 <a href="CONTRIBUTING.md"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
 <br/>
-<a href="LICENSE"><img alt="GitHub License MIT" src="https://img.shields.io/github/license/Ak-Shaw/text-to-handwriting-script?style=for-the-badge&labelColor=black&logo=github"></a>
-
-
+<a href="LICENSE"><img alt="GitHub License Apache-2.0" src="https://img.shields.io/github/license/vysakh-m/Virtual-Doc?style=for-the-badge&labelColor=black&logo=github"></a>
 
 <p align="center">
 
@@ -90,16 +88,7 @@ we concentrated we full fill the core idea of our project. If you know any other
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
  
  
