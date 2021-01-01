@@ -75,7 +75,7 @@ we concentrated we full fill the core idea of our project. If you know any other
 1. converted tfjs models are in the [All_tfjs_models](https://github.com/vysakh-m/Virtual-Doc/tree/main/All_tfjs_models) folder.
 2. Data for heart,diabetes,kidney,cancer is provided in the [data](https://github.com/vysakh-m/Virtual-Doc/tree/main/data) folder.
 3. All the python files are present in the [model_training_py_file](https://github.com/vysakh-m/Virtual-Doc/tree/main/model_training_py_files) folder.(If you face running the files then i'm sorry cause i have not tried them in py system beacause of the size of dataset)
-4. in the notebook the model building is done.
+4. in the [notebook](https://github.com/vysakh-m/Virtual-Doc/blob/main/model_training_notebook.ipynb) the model building is done.
 
 # Contributors:
  
