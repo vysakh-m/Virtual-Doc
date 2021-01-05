@@ -21,7 +21,7 @@ We putted together eight different diseases like Diabetes,breast-cancer,malaria 
 # Services this web-app provides🌟:
 <br/>
 <i>Via this project we provide user to check their health status for different disease like malaria,diabetes, breast-cancer including Covid.All the different diseases that we support right now is listed below.
-Please these are base models, so no hyperparameter tuning is done right now and as we used DL for building the models so acc is very less compared to ML algos.</i>.
+Please note that these are base models, so no hyperparameter tuning is done right now and as we used DL for building the models so acc is very less compared to ML algos.</i>.
 <br/><br/>
 
 1. **Breast Cancer Detection** : <i>Its a type of cancer that forms in the cells of the breasts,mainly occur in women and rarely in men.
