@@ -61,6 +61,16 @@ we concentrated we full fill the core idea of our project. If you know any other
 
 </pre>
 
+# Data🛠:
+1. Liver data: https://www.kaggle.com/uciml/indian-liver-patient-records
+2. malaria data: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+3. COVID data: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+4. pneumonia data: https://www.kaggle.com/pcbreviglieri/pneumonia-xray-images
+5. cancer data: https://github.com/vysakh-m/Virtual-Doc/blob/main/data/cancer.csv
+6. diabetes data: https://github.com/vysakh-m/Virtual-Doc/blob/main/data/diabetes.csv
+7. heart data : https://github.com/vysakh-m/Virtual-Doc/blob/main/data/heart.csv
+8. kidny data: https://github.com/vysakh-m/Virtual-Doc/blob/main/data/kidney_disease.csv
+
 
 # Future Perspectives 🤔
 1. Adding personalized Dashboard for users, where we can give then certain badges which shows their status for tested diseases.
